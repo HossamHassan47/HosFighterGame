@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Alcatel/TFS Online/Fighter/Fighter/Content/army_strong.mp3</SourceFile>
+  <SourceTime>2016-07-31T12:32:06.463434+02:00</SourceTime>
+  <DestFile>D:/Alcatel/TFS Online/Fighter/Fighter/Content/bin/Android/army_strong.xnb</DestFile>
+  <DestTime>2016-07-31T14:16:31.0717301+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-07-18T22:03:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-07-18T22:03:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Alcatel/TFS Online/Fighter/Fighter/Content/bin/Android/army_strong.m4a</string>
+  </BuildOutput>
+</PipelineBuildEvent>

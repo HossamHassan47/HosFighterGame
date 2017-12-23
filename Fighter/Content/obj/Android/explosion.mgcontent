@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Alcatel/TFS Online/Fighter/Fighter/Content/explosion.wav</SourceFile>
+  <SourceTime>2016-07-30T13:01:22.3320904+02:00</SourceTime>
+  <DestFile>D:/Alcatel/TFS Online/Fighter/Fighter/Content/bin/Android/explosion.xnb</DestFile>
+  <DestTime>2016-07-30T13:29:42.7148843+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-07-18T22:03:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-07-18T22:03:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

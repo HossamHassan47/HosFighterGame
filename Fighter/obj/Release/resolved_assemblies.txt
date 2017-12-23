@@ -1,0 +1,11 @@
+D:\Alcatel\TFS Online\Fighter\Fighter\obj\Release\android\assets\Fighter.dll
+D:\Alcatel\TFS Online\Fighter\Fighter\obj\Release\android\assets\Java.Interop.dll
+D:\Alcatel\TFS Online\Fighter\Fighter\obj\Release\android\assets\Mono.Android.dll
+D:\Alcatel\TFS Online\Fighter\Fighter\obj\Release\android\assets\mscorlib.dll
+D:\Alcatel\TFS Online\Fighter\Fighter\obj\Release\android\assets\OpenTK-1.0.dll
+D:\Alcatel\TFS Online\Fighter\Fighter\obj\Release\android\assets\System.Core.dll
+D:\Alcatel\TFS Online\Fighter\Fighter\obj\Release\android\assets\System.dll
+D:\Alcatel\TFS Online\Fighter\Fighter\obj\Release\android\assets\System.Xml.dll
+D:\Alcatel\TFS Online\Fighter\Fighter\obj\Release\android\assets\MonoGame.Framework.dll
+D:\Alcatel\TFS Online\Fighter\Fighter\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\Alcatel\TFS Online\Fighter\Fighter\obj\Release\android\assets\System.ServiceModel.Internals.dll

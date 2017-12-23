@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/background.png</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/fighter.png</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/rocket.png</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/enemy_fighter.png</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/enemy_rocket.png</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/fire.wav</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/explosion.wav</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/font.spritefont</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/collision.wav</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/army_strong.mp3</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/higher_level.wav</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/airplane.wav</File>
+    <File>D:/Alcatel/TFS Online/Fighter/Fighter/Content/score_font.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

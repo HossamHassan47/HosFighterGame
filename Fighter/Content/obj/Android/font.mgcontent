@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Alcatel/TFS Online/Fighter/Fighter/Content/font.spritefont</SourceFile>
+  <SourceTime>2016-02-03T21:09:28+02:00</SourceTime>
+  <DestFile>D:/Alcatel/TFS Online/Fighter/Fighter/Content/bin/Android/font.xnb</DestFile>
+  <DestTime>2016-07-30T15:19:37.4556148+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-07-18T22:03:56+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-07-18T22:03:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
